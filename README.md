@@ -9,7 +9,7 @@ and PHP learners**. Every record was written specifically for this project — n
 is copied from GitHub, Stack Overflow or any existing dataset.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PHP](https://img.shields.io/badge/PHP-8.x-777bb4.svg)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-8.2-777bb4.svg)](https://www.php.net/)
 [![Records](https://img.shields.io/badge/records-500-blue.svg)](data/php_dataset.jsonl)
 [![Validation](https://img.shields.io/badge/validation-PASS-brightgreen.svg)](scripts/validate_dataset.py)
 
