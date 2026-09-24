@@ -1,6 +1,6 @@
 # PHP AI Dataset
 
-A hand-authored, open-source dataset of **500 PHP 8.x examples** for training and
+A hand-authored, open-source dataset of **500 PHP 8.2 examples** for training and
 evaluating AI models that understand, generate, explain, fix, review, refactor and
 test PHP code.
 
@@ -98,7 +98,7 @@ are set to `null` rather than invented.
 {
   "id": "php_0001",
   "language": "PHP",
-  "php_version": "8.x",
+  "php_version": "8.2",
   "topic": "php_basics",
   "task_type": "code_generation",
   "difficulty": "beginner",
@@ -220,7 +220,7 @@ python scripts/validate_dataset.py
 - Evaluation prompts for code-generation and bug-fixing agents.
 - Retrieval-augmented generation over PHP examples.
 - A reference for building a PHP coding assistant's test suite.
-- Teaching material for PHP 8.x, especially the "common mistake" field.
+- Teaching material for PHP 8.2, especially the "common mistake" field.
 
 ### Real example: using a record as an instruction
 
